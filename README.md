@@ -1,7 +1,6 @@
 # RoPE-Aware Attribution with Cosine Semantic Scoring
 
 **Effective Context Utilization in Large Language Models**  
-Advay Kadam · Aryan Sapre · Naman Raina  
 University of Illinois Urbana-Champaign — CS 498: Machine Learning Systems (May 2026)
 
 ---
